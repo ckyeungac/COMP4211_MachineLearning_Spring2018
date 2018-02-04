@@ -5,6 +5,6 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
 ---
 1. 2018/02/09
 
-... Introduction of the tutorial
-... Azura Machine Learning Studio
-... Iris Classification with naive Bayes classifier.
+⋅⋅⋅ Introduction of the tutorial
+⋅⋅⋅ Azura Machine Learning Studio
+⋅⋅⋅ Iris Classification with naive Bayes classifier.
