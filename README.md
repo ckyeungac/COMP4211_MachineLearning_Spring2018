@@ -7,3 +7,9 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
   +Introduction of the tutorial
   +Azura Machine Learning Studio
   +Iris Classification with naive Bayes classifier.
+  
++ One
++ Two
++ Three
+    - Nested One
+    - Nested Two
