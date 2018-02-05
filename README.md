@@ -1,3 +1,5 @@
+Author: Chun-Kit Yeung
+
 # COMP4211 (Spring2018)
 ---
 This is a repository to store the tutorials materials for [COMP4211 - Mahcine Learning in HKUST](https://course.cse.ust.hk/comp4211/).
@@ -10,4 +12,3 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
     + Iris Classification with naive Bayes classifier.
     
 
-<-- Author: Chun-Kit Yeung -->
