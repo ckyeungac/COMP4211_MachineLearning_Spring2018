@@ -4,7 +4,7 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
 
 **Tutorial Schedule**:
 ---
-1. Tutorial 1, 2018/02/09
+1. Tutorial 1 (2018-02-09)
     + Introduction of the tutorial
     + Azura Machine Learning Studio
     + Introduction to Python
