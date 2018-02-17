@@ -13,4 +13,4 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
 2. Tutorial 2 (2018-02-23)
     + Introduction of machine learning work flow
     + Procedures of building an experiment in Auzra Machine Learning Studio with Iris classification problem
-    +Introduction to Numpy
+    + Introduction to Numpy
