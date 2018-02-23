@@ -4,6 +4,13 @@ This tutorial series is perpared by [Chun-Kit Yeung](https://ckyeungac.com)
 
 This is a repository to store the tutorials materials for [COMP4211 - Mahcine Learning in HKUST](https://course.cse.ust.hk/comp4211/).
 
+To download any single file in this tutorial, you may follow this [link](https://stackoverflow.com/questions/4604663/download-single-files-from-github)
+
+Or you can clone this repository by: 
+```
+git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
+```
+
 **Tutorial Schedule**:
 ---
 1. Tutorial 1 (2018-02-09)
