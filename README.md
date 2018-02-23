@@ -23,3 +23,6 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
     + Introduction of machine learning work flow
     + Introduction to Numpy
     + Using Scikit-learn to build a naive Bayes Classifier for *iris classification* problem
+3. Tutorial 3 (2018-03-02)
+	+ Assignment 1
+	+ K-Fold cross-validation
