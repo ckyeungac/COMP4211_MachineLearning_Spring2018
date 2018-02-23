@@ -6,7 +6,7 @@ This is a repository to store the tutorials materials for [COMP4211 - Mahcine Le
 
 ---
 
-To download any single file in this tutorial, you may follow this [link](https://stackoverflow.com/questions/4604663/download-single-files-from-github)
+To download any single file in this tutorial, you may follow this [link](https://stackoverflow.com/questions/4604663/download-single-files-from-github).
 
 Or you can clone this repository by: 
 ```
