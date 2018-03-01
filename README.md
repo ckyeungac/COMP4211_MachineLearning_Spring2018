@@ -22,7 +22,17 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
 2. Tutorial 2 (2018-02-23)
     + Introduction of machine learning work flow
     + Introduction to Numpy
-    + Using Scikit-learn to build a naive Bayes Classifier for *iris classification* problem
+    + Iris classification problem in scikit-learn
+    	+ Iris dataset
+    	+ Naive Bayes classifier
+    	+ Train-test split
+    	+ Accuracy
 3. Tutorial 3 (2018-03-02)
+	+ Sentiment Analysis in scikit-learn(Toy example)
+		+ Artificial neural network (ANN)
+		+ Text Vectorization
+		+ K-fold cross-validation (Only basic knowledge included, the detail implementation is left for your assignment 1)
 	+ Assignment 1
-	+ K-Fold cross-validation
+		+ 20 newsgroups dataset
+
+
