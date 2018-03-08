@@ -34,5 +34,9 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
 		+ K-fold cross-validation (Only basic knowledge included, the detail implementation is left for your assignment 1)
 	+ Assignment 1
 		+ 20 newsgroups dataset
+4. Tutorial 4 (2018-03-09)
+    + Perceptron (Implement from scratch)
+    + ADALINE
+    + Create a standalone workspace in Azure ML Studio.
 
 
