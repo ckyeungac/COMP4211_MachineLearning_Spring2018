@@ -38,7 +38,7 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
     + Perceptron (Implement from scratch)
     + ADALINE
     + Create a standalone workspace in Azure ML Studio.
-5. Tutorial 5 (2018-03-16)
+5. Tutorial 5, 6 (2018-03-16, 2018-03-23)
     + Basic TensorFlow
         + MNIST dataset
         + Single layer neural netowrk
