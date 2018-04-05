@@ -42,5 +42,7 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
     + Basic TensorFlow
         + MNIST dataset
         + Single layer neural netowrk
+7. Tutoiral 7 (2018-04-06)
+	+ Implement CNN using TensorFlow
 
 
