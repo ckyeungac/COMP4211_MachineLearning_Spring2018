@@ -42,17 +42,22 @@ git clone https://github.com/ckyeungac/COMP4211_Spring2018.git
     + Basic TensorFlow
         + MNIST dataset
         + Single layer neural netowrk
-7. Tutoiral 7 (2018-04-06)
+7. Tutorial 7 (2018-04-06)
 	+ Implement CNN using TensorFlow
 8. Tutorial 8 (2018-04-13)
 	+ SVM in scikit-learn
-9. Tutoiral 9 (2018-04-20)
+9. Tutorial 9 (2018-04-20)
 	+ SVM in Azura Machine Learning Studio
 		+ Credit risk prediction
 		+ Different evaluation measures apart from accuracy
 			+ Confusion matrix
 			+ Precision, recall, F1-score
 			+ Area under the ROC curve (AUC)
+10. Tutorial 10 (2018-04-27)
+    + Nonlinear SVM in scikit-learn
+        + Kernel
+            + Radial basis function (RBF)
+            + Polynominal 
 
 
 
