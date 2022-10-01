@@ -1,6 +1,6 @@
 # COMP4211 (Spring2018)
 
-This tutorial series is perpared by [Chun-Kit Yeung](https://ckyeungac.com)
+This tutorial series is perpared by [Kit Yeung](https://ckyeungac.github.io/)
 
 This is a repository to store the tutorials materials for [COMP4211 - Mahcine Learning in HKUST](https://course.cse.ust.hk/comp4211/).
 
